@@ -93,6 +93,7 @@ def main():
     
     print("===== Workout Generator =====")
     print("Staying fit and active is essential for maintaining physical and mental well-being.")
+      print("This program may suggest workouts which are too difficult, so be aware you might have to lower rep count or intensity.")
     print("Use this program to generate workouts, stay motivated, and track your fitness journey.\n")
     
     while True:
