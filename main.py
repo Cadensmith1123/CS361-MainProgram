@@ -89,6 +89,11 @@ def showQuote():
     print(f"\nMotivational Quote: {quote}")
 
 def main():
+
+    
+    print("===== Workout Generator =====")
+    print("Staying fit and active is essential for maintaining physical and mental well-being.")
+    print("Use this program to generate workouts, stay motivated, and track your fitness journey.\n")
     
     while True:
         # user prompt
